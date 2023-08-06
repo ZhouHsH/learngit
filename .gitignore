@@ -1,0 +1,11 @@
+#文件名称 .gitignore
+
+secret.yml
+
+config/database.yml
+
+/db/*.sqlite3
+
+.tmp
+
+
